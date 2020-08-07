@@ -6,3 +6,8 @@ server/src/database/database.sqlite
 web/node_modules/**/*
 web/npm-debug.log*
 web/npm-error.log*
+
+mobile/node_modules/**/*
+mobile/npm-debug.log*
+mobile/npm-error.log*
+mobile/.expo
