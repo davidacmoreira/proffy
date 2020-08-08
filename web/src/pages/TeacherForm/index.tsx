@@ -51,8 +51,6 @@ function TeacherForm() {
     }).catch(() => {
       alert('Error');
     });
-
-    console.log({name, avatar, bio, whatsapp, cost, subject, scheduleItems});
   }
 
   function setScheduleItemValue(position: Number, field: string, value: string) {
